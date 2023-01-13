@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<head>
-    <link rel="stylesheet" href="Public/style.css">
-    <title>Quiz</title>
-</head>
-<body>
-<div class = bravo>
-<h2> Bravo ! Toutes vos réponses sont correctes ! </h2>
-<img class="images" src="../public./images./bravo.png">
-</div>
-</body>
-</html>
 <?php
 $fnameErr = $lnameErr = $emailErr = $allerr = "";
 $fname = $lname = $email = "";
