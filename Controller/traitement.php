@@ -38,7 +38,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
         $lname = test_input($_POST["nom"]);
     }
     if (empty($_POST["nom"] && empty($_POST["prenom"]) && empty($_POST["email"]))){
-        $allerr = "Tous les champs doivent être rempli";
+        echo("Tout les champs doivent être remplis");
     }
 }
 
