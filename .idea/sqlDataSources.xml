@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="3c9dfd78-b27d-4a71-8c41-b17b403e60b8" />
+          <option name="name" value="@localhost (DDL)" />
+          <option name="languageId" value="MySQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/information_schema/ADMINISTRABLE_ROLE_AUTHORIZATIONS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/APPLICABLE_ROLES.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/CHARACTER_SETS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/CHECK_CONSTRAINTS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/COLLATIONS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/COLLATION_CHARACTER_SET_APPLICABILITY.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/COLUMNS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/COLUMNS_EXTENSIONS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/COLUMN_STATISTICS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/ENABLED_ROLES.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/EVENTS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/FILES.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/INNODB_DATAFILES.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/INNODB_FIELDS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/INNODB_FOREIGN.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/INNODB_FOREIGN_COLS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/INNODB_TABLESPACES_BRIEF.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/KEYWORDS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/KEY_COLUMN_USAGE.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/PARAMETERS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/PARTITIONS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/REFERENTIAL_CONSTRAINTS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/RESOURCE_GROUPS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/ROLE_COLUMN_GRANTS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/ROLE_ROUTINE_GRANTS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/ROLE_TABLE_GRANTS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/ROUTINES.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/SCHEMATA.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/SCHEMATA_EXTENSIONS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/STATISTICS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/ST_GEOMETRY_COLUMNS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/ST_SPATIAL_REFERENCE_SYSTEMS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/ST_UNITS_OF_MEASURE.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/TABLES.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/TABLESPACES_EXTENSIONS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/TABLES_EXTENSIONS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/TABLE_CONSTRAINTS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/TABLE_CONSTRAINTS_EXTENSIONS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/TRIGGERS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/USER_ATTRIBUTES.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/VIEWS.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/VIEW_ROUTINE_USAGE.sql" />
+              <option value="file://$PROJECT_DIR$/information_schema/VIEW_TABLE_USAGE.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
